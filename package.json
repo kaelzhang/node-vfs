@@ -1,7 +1,7 @@
 {
   "name": "vfs",
   "version": "0.1.0",
-  "description": "vfs",
+  "description": "Node.js Virtual File System.",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter spec ./test/*.js"
@@ -11,7 +11,10 @@
     "url": "git://github.com/kaelzhang/node-vfs.git"
   },
   "keywords": [
-    "vfs"
+    "vfs",
+    "virtual",
+    "file",
+    "system"
   ],
   "engines": {
     "node": ">=0.10.0"
